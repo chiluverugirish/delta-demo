@@ -1,2 +1,8 @@
-# first name:chiluveru
-# Last name :girish
+# delta-demo
+this is a demo for Git and GitHub class.
+
+# Teacher
+Shradha Khapra
+
+# Student
+Delta Student 
